@@ -11,8 +11,11 @@ __Date:__ May 2022
 Here's a screenshot of my challenge portal dashboard.  
 [![IQC Spring Challenge 2022 Portal Screenshot](iqc_spring_2022_portal.png)](https://challenges.quantum-computing.ibm.com/spring-2022)  
   
+And here's my advanced badge, for completing all the exercises.  
+[<img src="./iqc_spring_2022_badge.png" alt="IBM Quantum Challenge Advanced Badge" height="150px">](https://www.credly.com/badges/e8df86d2-97ce-4566-919a-077aa3bfb8ff/public_url)  
+  
 ## Description  
-The challenge consisted of 4 exercises, in each `exercise*` folder.  
+The challenge consisted of 4 exercises, in each `exercise<x>` folder.  
 Each folder has a short `index.md` introduction, a `.ipynb` workbook, and a `.html` copy of the workbook.  
 There are also several pictures in the folders, used in the workbooks.  
   
